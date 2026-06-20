@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Rita Kikani 👋
 
-<!--
-**ritakikani/ritakikani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+WordPress Developer with 6+ years of experience building plugins, themes, integrations, and custom WordPress solutions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Started my career as a PHP Developer
+* WordPress Plugin Developer at WP Event Manager
+* Contributor on WordPress.org
+* Based in Germany
+* Passionate about building scalable and user-friendly WordPress solutions
+
+## Skills
+
+### WordPress
+
+* Plugin Development
+* Theme Development & Customization
+* WooCommerce Development
+* WordPress REST API
+* Custom Post Types & Taxonomies
+
+### Development
+
+* PHP
+* MySQL
+* JavaScript / jQuery
+* HTML / CSS
+* Git & GitHub
+
+### Tools & Integrations
+
+* Elementor Custom Widgets
+* WPBakery / Visual Composer Custom Elements
+* Advanced Custom Fields (ACF)
+* Stripe
+* PayPal
+* Zapier
+* REST APIs
+
+## Open Source
+
+My WordPress plugin development journey began with WP Event Manager, where I contribute to feature development, bug fixes, integrations, and maintenance of products used by thousands of WordPress websites.
+
+## Connect
+
+* WordPress.org: https://profiles.wordpress.org/kikanirita/
+* LinkedIn: Add your LinkedIn profile link here
