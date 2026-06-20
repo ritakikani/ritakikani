@@ -45,4 +45,4 @@ My WordPress plugin development journey began with WP Event Manager, where I con
 ## Connect
 
 * WordPress.org: https://profiles.wordpress.org/kikanirita/
-* LinkedIn: Add your LinkedIn profile link here
+* LinkedIn: https://www.linkedin.com/in/rita-kikani-1b1b3a150/
